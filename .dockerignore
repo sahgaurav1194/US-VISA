@@ -1,0 +1,6 @@
+artifact/
+logs/
+.git/
+__pycache__/
+*.egg-info/
+notebooks/.ipynb_checkpoints/

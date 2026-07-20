@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+pymongo
+certifi
+dill
+PyYAML
+python-dotenv
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e .
